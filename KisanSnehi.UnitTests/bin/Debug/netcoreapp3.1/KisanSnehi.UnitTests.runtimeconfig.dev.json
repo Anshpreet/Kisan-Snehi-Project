@@ -1,0 +1,24 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+<<<<<<< HEAD
+      "C:\\Users\\HP\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\HP\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "C:\\Users\\New\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\New\\.nuget\\packages"
+=======
+      "C:\\Users\\Anshpreet kaur\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Anshpreet kaur\\.nuget\\packages"
+>>>>>>> 1bed4d513c6473b820742116f919ea4219959bab
+=======
+      "C:\\Users\\arpit\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\arpit\\.nuget\\packages"
+>>>>>>> 43a50dd93d5dfb8f88acf2819eb7818ed4e97086
+>>>>>>> 50411e46a8ad1bc72b5bee27aa7c79dc256caec9
+    ]
+  }
+}

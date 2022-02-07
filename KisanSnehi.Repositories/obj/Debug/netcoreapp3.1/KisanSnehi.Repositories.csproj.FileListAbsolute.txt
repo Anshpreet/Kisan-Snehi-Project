@@ -1,0 +1,17 @@
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Repositories\bin\Debug\netcoreapp3.1\KisanSnehi.Repositories.deps.json
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Repositories\bin\Debug\netcoreapp3.1\KisanSnehi.Repositories.runtimeconfig.json
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Repositories\bin\Debug\netcoreapp3.1\KisanSnehi.Repositories.runtimeconfig.dev.json
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Repositories\bin\Debug\netcoreapp3.1\KisanSnehi.Repositories.dll
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Repositories\bin\Debug\netcoreapp3.1\KisanSnehi.Repositories.pdb
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Repositories\bin\Debug\netcoreapp3.1\KisanSnehi.CustomExceptions.dll
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Repositories\bin\Debug\netcoreapp3.1\KisanSnehi.Entities.dll
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Repositories\bin\Debug\netcoreapp3.1\KisanSnehi.CustomExceptions.pdb
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Repositories\bin\Debug\netcoreapp3.1\KisanSnehi.Entities.pdb
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Repositories\obj\Debug\netcoreapp3.1\KisanSnehi.Repositories.csprojAssemblyReference.cache
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Repositories\obj\Debug\netcoreapp3.1\KisanSnehi.Repositories.AssemblyInfoInputs.cache
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Repositories\obj\Debug\netcoreapp3.1\KisanSnehi.Repositories.AssemblyInfo.cs
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Repositories\obj\Debug\netcoreapp3.1\KisanSnehi.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Repositories\obj\Debug\netcoreapp3.1\KisanSnehi.Repositories.csproj.CopyComplete
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Repositories\obj\Debug\netcoreapp3.1\KisanSnehi.Repositories.dll
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Repositories\obj\Debug\netcoreapp3.1\KisanSnehi.Repositories.pdb
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Repositories\obj\Debug\netcoreapp3.1\KisanSnehi.Repositories.genruntimeconfig.cache

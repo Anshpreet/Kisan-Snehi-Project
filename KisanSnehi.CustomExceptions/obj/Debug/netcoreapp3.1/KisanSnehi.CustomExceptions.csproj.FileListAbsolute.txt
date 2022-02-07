@@ -1,0 +1,12 @@
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.CustomExceptions\bin\Debug\netcoreapp3.1\KisanSnehi.CustomExceptions.deps.json
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.CustomExceptions\bin\Debug\netcoreapp3.1\KisanSnehi.CustomExceptions.runtimeconfig.json
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.CustomExceptions\bin\Debug\netcoreapp3.1\KisanSnehi.CustomExceptions.runtimeconfig.dev.json
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.CustomExceptions\bin\Debug\netcoreapp3.1\KisanSnehi.CustomExceptions.dll
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.CustomExceptions\bin\Debug\netcoreapp3.1\KisanSnehi.CustomExceptions.pdb
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.CustomExceptions\obj\Debug\netcoreapp3.1\KisanSnehi.CustomExceptions.csprojAssemblyReference.cache
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.CustomExceptions\obj\Debug\netcoreapp3.1\KisanSnehi.CustomExceptions.AssemblyInfoInputs.cache
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.CustomExceptions\obj\Debug\netcoreapp3.1\KisanSnehi.CustomExceptions.AssemblyInfo.cs
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.CustomExceptions\obj\Debug\netcoreapp3.1\KisanSnehi.CustomExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.CustomExceptions\obj\Debug\netcoreapp3.1\KisanSnehi.CustomExceptions.dll
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.CustomExceptions\obj\Debug\netcoreapp3.1\KisanSnehi.CustomExceptions.pdb
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.CustomExceptions\obj\Debug\netcoreapp3.1\KisanSnehi.CustomExceptions.genruntimeconfig.cache

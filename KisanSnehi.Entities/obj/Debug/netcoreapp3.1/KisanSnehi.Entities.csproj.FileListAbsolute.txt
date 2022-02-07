@@ -1,0 +1,12 @@
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Entities\bin\Debug\netcoreapp3.1\KisanSnehi.Entities.deps.json
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Entities\bin\Debug\netcoreapp3.1\KisanSnehi.Entities.runtimeconfig.json
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Entities\bin\Debug\netcoreapp3.1\KisanSnehi.Entities.runtimeconfig.dev.json
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Entities\bin\Debug\netcoreapp3.1\KisanSnehi.Entities.dll
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Entities\bin\Debug\netcoreapp3.1\KisanSnehi.Entities.pdb
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Entities\obj\Debug\netcoreapp3.1\KisanSnehi.Entities.csprojAssemblyReference.cache
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Entities\obj\Debug\netcoreapp3.1\KisanSnehi.Entities.AssemblyInfoInputs.cache
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Entities\obj\Debug\netcoreapp3.1\KisanSnehi.Entities.AssemblyInfo.cs
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Entities\obj\Debug\netcoreapp3.1\KisanSnehi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Entities\obj\Debug\netcoreapp3.1\KisanSnehi.Entities.dll
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Entities\obj\Debug\netcoreapp3.1\KisanSnehi.Entities.pdb
+C:\Users\Anshpreet kaur\source\repos\KisanSnehiNew\KisanSnehiNew\KisanSnehi.Entities\obj\Debug\netcoreapp3.1\KisanSnehi.Entities.genruntimeconfig.cache
